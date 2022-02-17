@@ -7,6 +7,8 @@
 
 ![Genivan GitHub stats](https://github-readme-stats.vercel.app/api?username=GenivanLourenco&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenivanLourenco&layout=compact)](https://github.com/GenivanLourenco/github-readme-stats)
+
 ## Tecnologias que eu estudo no meu dia a dia
 
 <div style="display: inline_block"><br/>
